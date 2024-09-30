@@ -1,0 +1,72 @@
+[
+  {
+    "isim": "Patates Kızartması",
+    "kalori": "365 Kalori",
+    "karbonhidrat": "63 gram",
+    "protein": "3.4 gram",
+    "yag": "17 gram"
+  },
+  {
+    "isim": "Cips",
+    "kalori": "536 Kalori",
+    "karbonhidrat": "53 gram",
+    "protein": "6 gram",
+    "yag": "34 gram"
+  },
+  {
+    "isim": "Fıstık",
+    "kalori": "567 Kalori",
+    "karbonhidrat": "16 gram",
+    "protein": "25 gram",
+    "yag": "49 gram"
+  },
+  {
+    "isim": "Çerez Karışımı",
+    "kalori": "579 Kalori",
+    "karbonhidrat": "25 gram",
+    "protein": "19 gram",
+    "yag": "48 gram"
+  },
+  {
+    "isim": "Mini Sandviç",
+    "kalori": "250 Kalori",
+    "karbonhidrat": "30 gram",
+    "protein": "10 gram",
+    "yag": "10 gram"
+  },
+  {
+    "isim": "Kuru Meyve Karışımı",
+    "kalori": "375 Kalori",
+    "karbonhidrat": "85 gram",
+    "protein": "4 gram",
+    "yag": "1 gram"
+  },
+  {
+    "isim": "Süzme Yoğurtlu Havuç",
+    "kalori": "100 Kalori",
+    "karbonhidrat": "12 gram",
+    "protein": "5 gram",
+    "yag": "3 gram"
+  },
+  {
+    "isim": "Mozarella Peynir Topları",
+    "kalori": "310 Kalori",
+    "karbonhidrat": "2 gram",
+    "protein": "20 gram",
+    "yag": "24 gram"
+  },
+  {
+    "isim": "Tortilla Chips",
+    "kalori": "480 Kalori",
+    "karbonhidrat": "65 gram",
+    "protein": "6 gram",
+    "yag": "23 gram"
+  },
+  {
+    "isim": "Peynirli Kraker",
+    "kalori": "150 Kalori",
+    "karbonhidrat": "20 gram",
+    "protein": "5 gram",
+    "yag": "6 gram"
+  }
+]
